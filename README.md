@@ -108,7 +108,7 @@ const mustafa = {
 
 <img src="https://streak-stats.demolab.com?user=MustafaYamin&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MustafaYamin&theme=github-compact&hide_border=true&area=true" width="100%" alt="Activity graph" />
+<img src="https://ghchart.rshah.org/2ea043/MustafaYamin" width="100%" alt="Contribution chart" />
 
 </div>
 
